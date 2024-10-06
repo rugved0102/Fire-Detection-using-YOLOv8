@@ -43,3 +43,5 @@ gdown "https://drive.google.com/uc?id=1AVDY5a13cGdTd_0Wj1p93_xiFFEBcxIN&confirm=
 
 #### Fire Detection 
 ![](./figure1.png)
+
+This repo was forked from https://github.com/MuhammadMoinFaisal/FireDetectionYOLOv8
