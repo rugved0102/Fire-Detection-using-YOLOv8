@@ -43,15 +43,3 @@ gdown "https://drive.google.com/uc?id=1AVDY5a13cGdTd_0Wj1p93_xiFFEBcxIN&confirm=
 
 #### Fire Detection 
 ![](./figure1.png)
-
-#### Fire Detection
-
-![](./figure3.png)
-
-### Watch the Complete Step by Step Explanation
-
-- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/watch?v=hQyG5qf9TB0&t=5s)
-
-
-[![Watch the Complete Tutorial for the Step by Step Explanation](https://img.youtube.com/vi/hQyG5qf9TB0/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=hQyG5qf9TB0))
-
