@@ -5,7 +5,7 @@
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/FireDetectionYOLOv8.git
+git clone https://github.com/rugved0102/Fire-Detection-using-YOLOv8.git
 ```
 - Goto the cloned folder.
 ```
