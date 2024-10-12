@@ -26,8 +26,8 @@ To run this project, you will need the following dependencies:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rugved0102/Computer-Vision-Projects.git
-   cd Computer-Vision-Projects/Fire-Detection-using-YOLOv8
+   git clone https://github.com/rugved0102/Fire-Detection-using-YOLOv8.git
+   cd Fire-Detection-using-YOLOv8/Fire-Detection-YOLOv8
    ```
 
 2. Install the required packages:
